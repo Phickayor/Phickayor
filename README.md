@@ -4,9 +4,7 @@ A FrontEnd Developer from Lagos, Nigeria. <br>
 I have 3 years experience in tech. <br><br>
 - 😄 <b> Pronouns: </b> he/him 👦🏼
 - 💼 <b> Job search status: </b> Actively looking
-### 🏫 Now Studying:
-* React JS
-* Tailwind CSS
+### 🏫 Now Studying
 * UI/UX
 
 ### Hobbies:
@@ -23,8 +21,10 @@ I have 3 years experience in tech. <br><br>
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![php](https://img.shields.io/badge/-php-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?logo=angularjs&logoColor=white&style=for-the-badge)
+![ReactJS](https://img.shields.io/badge/-ReactJS-0000AA?logo=reactjs&logoColor=white&style=for-the-badge)
+![NodeJs](https://img.shields.io/badge/-NodeJS-00aa00?logo=nodejs&logoColor=white&style=for-the-badge)
+![NextJs](https://img.shields.io/badge/-NextJS-000000?logo=nextjs&logoColor=white&style=for-the-badge)
+![TailwindCss](https://img.shields.io/badge/-TailwindCSS-0000AA?logo=tailwindcss&logoColor=white&style=for-the-badge)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Phickayor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Phickayor&theme=dark&hide_border=false)<br/>
