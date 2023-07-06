@@ -27,6 +27,7 @@ I have 3 years experience in tech. <br><br>
 ![TailwindCss](https://img.shields.io/badge/-TailwindCSS-0000AA?logo=tailwindcss&logoColor=white&style=for-the-badge)
 # 🏆 Github Trophies:
 <p align="center"> <a href="https://github.com/Phickayor/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Phickayor&layout=compact&theme=algolia" alt="Phickayor" /></a> </p>
+
 # 📊 Github Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Phickayor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
