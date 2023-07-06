@@ -25,7 +25,8 @@ I have 3 years experience in tech. <br><br>
 ![NodeJs](https://img.shields.io/badge/-NodeJS-00aa00?logo=nodejs&logoColor=white&style=for-the-badge)
 ![NextJs](https://img.shields.io/badge/-NextJS-000000?logo=nextjs&logoColor=white&style=for-the-badge)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCSS-0000AA?logo=tailwindcss&logoColor=white&style=for-the-badge)
-# 📊 GitHub Stats:
+# 🏆 Github Trophies
+<p align="center"> <a href="https://github.com/Phickayor/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Phickayor&layout=compact&theme=algolia" alt="Phickayor" /></a> </p>
 ![](https://github-readme-stats.vercel.app/api?username=Phickayor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Phickayor&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phickayor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
