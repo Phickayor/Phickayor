@@ -1,11 +1,12 @@
 # 💫 About Me:
 Hi :wave: , I'm Olufikayomi <br>
 A FrontEnd Developer from Lagos, Nigeria. <br>
-I have 3 years experience in tech. <br><br>
+I have 4 years experience in tech. <br><br>
 - 😄 <b> Pronouns: </b> he/him 👦🏼
 - 💼 <b> Job search status: </b> Actively looking
 ### 🏫 Now Studying
-* UI/UX
+* TypeScript
+* Technical Writing
 
 ### Hobbies:
 * Watching Movies
