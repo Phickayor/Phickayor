@@ -7,6 +7,7 @@ I have 4 years experience in tech. <br><br>
 ### 🏫 Now Studying
 * TypeScript
 * Technical Writing
+* Solidity
 
 ### Hobbies:
 * Watching Movies
