@@ -2,9 +2,9 @@
 Hi :wave: , I'm Olufikayomi <br>
 A MERN Stack Developer from Lagos, Nigeria. <br>
 I have 6 years experience in tech. <br><br>
-* Built [Currency Hub](https://currency_hub.netlify.app/)- A web app that helps with conversion of prices across different currencies with the most recent exchange rate.
-* Built [Beta-Finance](https://beta-finance.netlify.app) - A full stack web app that helps manage and simplify payments for small businesses.
-* Built [Weather App](https://phickayor.github.io/Weather-App) - A web app that checks the current weather conditions at any location provided.
+* Built [Currency Hub](https://currency_hub.netlify.app/)- A React-powered currency converter that integrates a live exchange rate API to instantly convert prices across multiple currencies worldwide, featuring a clean and responsive UI.
+* Built [Beta-Finance](https://beta-finance.netlify.app) - A full-stack payment management web app built with React and Node.js/Express, designed to help small businesses track transactions, manage invoices, and simplify their entire payment workflow in one place.
+* Built [Weather App](https://phickayor.github.io/Weather-App) - A React-powered weather application that fetches real-time weather conditions, temperature, humidity, and forecasts for any location worldwide using a live weather API, with a clean responsive interface.
 - 😄 <b> Pronouns: </b> he/him 👦🏼
 - 💼 <b> Job search status: </b> Actively looking
 ### 🏫 Now Studying
