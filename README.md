@@ -2,6 +2,9 @@
 Hi :wave: , I'm Olufikayomi <br>
 A MERN Stack Developer from Lagos, Nigeria. <br>
 I have 6 years experience in tech. <br><br>
+* Built [Currency Hub](https://currency_hub.netlify.app/)- A web app that helps with conversion of prices across different currencies with the most recent exchange rate.
+* Built [Beta-Finance](https://beta-finance.netlify.app) - A full stack web app that helps manage and simplify payments for small businesses.
+* Built [Weather App](https://phickayor.github.io/Weather-App) - A web app that checks the current weather conditions at any location provided.
 - 😄 <b> Pronouns: </b> he/him 👦🏼
 - 💼 <b> Job search status: </b> Actively looking
 ### 🏫 Now Studying
@@ -14,7 +17,7 @@ I have 6 years experience in tech. <br><br>
 * Learning new technologies
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/determineddev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olufikayomi-jetawo-79633a184) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@determineddev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@FikayoJetawo) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/determineddev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olufikayomi-jetawo-79633a184) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@phickayor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@phickayor) 
 
 # 💻 Tech Stack:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
